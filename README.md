@@ -4,7 +4,7 @@
 ## 🚀 Live Demo
 
 - **GitHub Repo:** [GitHub Link](https://github.com/Ripsudhanpmishra/educase-popx-frontend/)
-- **Live Site:** [Vercel Link](https://custom-notes-application.vercel.app/viewnotes)
+- **Live Site:** [Vercel Link](https://educase-popx-frontend.vercel.app/)
 
 ---
 
